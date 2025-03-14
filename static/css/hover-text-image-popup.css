@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    background-color: var(--background);
+    color: var(--text_color);
+}
+
+.hover-text-container {
+    font-weight: bold;
+    font-size: 100px;
+    font-family: serif;
+    opacity: .25;
+    text-transform: uppercase;
+    transform: scaleY(1);
+    transition: opacity 0.3s ease, transform 0.3s ease;
+    font-family: "Holtwood One SC";
+}
+
+.hover-text-container:hover, .hover-text-popup:active {
+    animation: bounce 0.6s ease forwards;
+    transform: scaleY(1.2);
+    opacity: 1;
+}
+
+.hover-text-container:not(:hover):not(:active) {
+    animation: unbounce 0.6s ease forwards;
+    transform: scaleY(1);
+    opacity: .25;
+}
+
+@keyframes bounce {
+    0% {
+        transform: scaleY(1);
+    }
+    30% {
+        transform: scaleY(1.2);
+    }
+    50% {
+        transform: scaleY(1.1);
+    }
+    70% {
+        transform: scaleY(1.15);
+    }
+    100% {
+        transform: scaleY(1.2);
+    }
+}
+
+@keyframes unbounce {
+    0% {
+        transform: scaleY(1);
+    }
+    30% {
+        transform: scaleY(.8);
+    }
+    50% {
+        transform: scaleY(.9);
+    }
+    70% {
+        transform: scaleY(.85);
+    }
+    100% {
+        transform: scaleY(1);
+    }
+}
+
+.hover-image-wrapper {
+    position: relative;
+    margin-bottom: 50px;
+    overflow: hidden;
+}
+
+.hover-image {
+    position: absolute;
+    width: 200px;
+    overflow: hidden;
+}
+
+.hover-image:nth-child(1) { 
+    left: -300px; 
+    rotate: -5deg;
+}
+
+.hover-image:nth-child(2) { 
+    top: -200px; 
+    rotate: 5deg;
+}
+
+.hover-image:nth-child(3) { 
+    right: -250px;
+}
+
+.hover-image img {
+    width: 200px;
+    border-radius: 15px;
+    object-fit: cover;
+    transform: scale(0);
+    transition: all .3s;
+}
+
+.hover-image-wrapper:not(:hover) .hover-image img {
+    transform: scale(0);
+}
+
+.hover-image-wrapper:hover .hover-image:not(:hover) img {
+    transform: scale(1);
+    
+}
+.hover-image-wrapper:hover {
+    overflow: visible;
+}
