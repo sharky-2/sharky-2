@@ -1,6 +1,4 @@
-<img src="GitHubBanner.png" alt="Git Hub Banner" width="100%">
-
-# Hello World!, I'm Blaz, a Self Learning Dev:
+# Hello World!, I'm self learning developer
 👨🏼‍🎓studying programming at [Srednja Tehniška Šola](https://sckr.si/sts/)<br>👨🏼‍💻working on my own projects for fun and to learn more
 
 # 💻Tech Stack:<br>
