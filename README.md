@@ -1,3 +1,5 @@
+<img src="img/lenguages_banner.png" width=850px>
+
 # Hello World!, I'm self learning developer
 👨🏼‍🎓studying programming at [Srednja Tehniška Šola](https://sckr.si/sts/)<br>👨🏼‍💻working on my own projects for fun and to learn more
 
