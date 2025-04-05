@@ -13,8 +13,8 @@ Welcome to my GitHub! I'm a self-taught developer currently diving deep into bot
 
 Here are a few things I’ve been cooking up:
 
-- **QueriFlow** – Enhancing user workflows in web apps
-- **HistoryGo** – A creative way to explore historical data (Python)
+- **[**QueriFlow**](https://github.com/sharky-2/QueriFlow)** – Enhancing user workflows in web apps
+- **[**HistoryGo**](https://github.com/sharky-2/HistoryGo)** – A creative way to explore historical data (Python)
 
 More projects and updates coming soon 👀
 
