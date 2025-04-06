@@ -18,12 +18,6 @@ Here are a few things I’ve been cooking up:
 
 More projects and updates coming soon 👀
 
-## 🌱 Always Learning
-
-Right now I'm diving into:
-- React & JavaScript
-- Databases
-- UI/UX design principles
 
 ## 📫 Let's Connect
 
