@@ -4,7 +4,7 @@
 Curently in [high school](https://sckr.si/sts/) learning both front-end & back-end<br>
 Most of programming lenguages I have learned by my self. I love working on fun projects to sharpen my skills and explore new ideas
 
-<details>
+<details open>
 <summary>
 ✨ Finished Projects
 </summary>
