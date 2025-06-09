@@ -1,30 +1,38 @@
-![Mouse Dot Effect](https://github.com/sharky-2/sharky-2/blob/main/static/dino.gif)
-# Hello, I'm Blaz
+# 👋 Hi, I'm Blaz!
+💻 A self-taught developer passionate about both front-end and back-end development<br/>
+🏫 Currently studying at STŠ High School in Slovenia<br/>
+🚀 I love building creative projects to explore new ideas and sharpen my skills<br/>
+🌱 Always learning — currently diving into design patterns, APIs, and performance optimization<br/>
 
-Curently in [high school](https://sckr.si/sts/) learning both front-end & back-end<br>
-Most of programming lenguages I have learned by my self. I love working on fun projects to sharpen my skills and explore new ideas
+![](https://github-readme-stats.vercel.app/api?username=sharky-2&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-<details open>
-<summary>
-✨ Finished Projects
-</summary>
+# 💻 Tech Stack
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-> Fun projects
-- [Tabloo](https://github.com/sharky-2/Tabloo) is a powerful desktop app designed to help you find what you're looking for in documents faster and more efficiently.
-- [BubblyChat](https://github.com/sharky-2/BubblyChat) is a fun, lightweight web chat platform that connects people instantly. Just click “Start Chatting”, and you're in — no signup needed! BubblyChat creates your account automatically and lets you chat with everyone currently online.
-- [Mouse dot effect](https://github.com/sharky-2/mouse-dot-effect) is a simple interactive visual experiment where a grid of dots reacts to your mouse movement!
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![GDScript](https://img.shields.io/badge/gdscript-%23100000.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-> Chrome Extensions
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-- [ Meme-Generator-Extension](https://github.com/sharky-2/meme-generator-extension) is a chrome extension that display random memes / jokes on image when hovered.
-</details>
+## 🔧 Featured Project
 
-<details>
-<summary>
-🦺 Projects in progress
-</summary>
+### 🖥️ [Code View](https://sharky-2.github.io/code-view/)
+**Code View** is a simple yet powerful web app that lets you build your own small websites using HTML, CSS, and JavaScript.
 
-- [HistoryGo](https://github.com/sharky-2/HistoryGo) is your digital passport to the past. Whether you're a history buff, a cultural explorer, or just someone planning your next big trip, HistoryGo helps you discover the most historically rich places in any country around the world.
-- [Portfolio](https://github.com/sharky-2/Portfolio) 
+🚀 **Key Features:**
+- 🧠 Live real-time preview as you code  
+- 🎨 Clean and intuitive interface  
+- 📦 Built with vanilla JavaScript — no frameworks required  
+- 🌱 Perfect for beginners learning web dev  
+- ⚡ Quick prototyping without installing anything
 
-</details>
+> Ideal for learning, testing, and experimenting with front-end ideas directly in your browser.
+
+🔗 **Try it now**: [sharky-2.github.io/code-view](https://sharky-2.github.io/code-view/)
