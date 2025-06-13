@@ -36,3 +36,8 @@
 > Ideal for learning, testing, and experimenting with front-end ideas directly in your browser.
 
 🔗 **Try it now**: [sharky-2.github.io/code-view](https://sharky-2.github.io/code-view/)
+
+<h2>👤 Developer Info</h2>
+<pre><code class="language-sh">git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+</code></pre>
